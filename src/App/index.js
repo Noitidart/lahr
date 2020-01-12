@@ -2,6 +2,9 @@ import React from 'react';
 
 import './index.css';
 
+import GIRL1 from './girl1.jpg';
+import GIRL2 from './girl2.png';
+
 function App() {
   return (
     <div className="App">
@@ -138,6 +141,12 @@ function App() {
           <div className="Section--para">
             Believing in the role assigned to all of us to advance the democratic process, preserve the freedom of all citizens and stand up to injustice, LAHR ask you to support our goals and efforts. We strongly believe that your contributions within your capacity, whether it may be financially or otherwise, will make a huge impact on peace, justice, prosperity and stability in Libya and elsewhere.
           </div>
+        </div>
+
+        <div className="ImageSection">
+          <img src={GIRL1} />
+
+          <img src={GIRL2} />
         </div>
     </div>
   );
