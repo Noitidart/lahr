@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lahr/static/css/main.b88a1c08.chunk.css",
+    "main.js": "/lahr/static/js/main.a43e3d20.chunk.js",
+    "main.js.map": "/lahr/static/js/main.a43e3d20.chunk.js.map",
+    "runtime-main.js": "/lahr/static/js/runtime-main.47d18e0a.js",
+    "runtime-main.js.map": "/lahr/static/js/runtime-main.47d18e0a.js.map",
+    "static/js/2.05d54c8b.chunk.js": "/lahr/static/js/2.05d54c8b.chunk.js",
+    "static/js/2.05d54c8b.chunk.js.map": "/lahr/static/js/2.05d54c8b.chunk.js.map",
+    "index.html": "/lahr/index.html",
+    "precache-manifest.6a1aae89bfb0ef1d431953648de7f9ca.js": "/lahr/precache-manifest.6a1aae89bfb0ef1d431953648de7f9ca.js",
+    "service-worker.js": "/lahr/service-worker.js",
+    "static/css/main.b88a1c08.chunk.css.map": "/lahr/static/css/main.b88a1c08.chunk.css.map",
+    "static/js/2.05d54c8b.chunk.js.LICENSE": "/lahr/static/js/2.05d54c8b.chunk.js.LICENSE",
+    "static/media/girl1.jpg": "/lahr/static/media/girl1.0d0a29ac.jpg",
+    "static/media/girl2.png": "/lahr/static/media/girl2.7cad1914.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47d18e0a.js",
+    "static/js/2.05d54c8b.chunk.js",
+    "static/css/main.b88a1c08.chunk.css",
+    "static/js/main.a43e3d20.chunk.js"
+  ]
+}
